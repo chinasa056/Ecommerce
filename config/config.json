@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "Acha105#",
-    "database": "ecommerce",
-    "host": "127.0.0.1",
+    "username": "sql12759428",
+    "password": "jys97Y8nhl",
+    "database": "sql12759428",
+    "host": "sql12.freesqldatabase.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
+    "username": "sql12759428",
+    "password": "jys97Y8nhl",
     "database": "database_test",
-    "host": "127.0.0.1",
+    "host": "sql12.freesqldatabase.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
+    "username": "sql12759428",
+    "password": "jys97Y8nhl",
     "database": "database_production",
-    "host": "127.0.0.1",
+    "host": "sql12.freesqldatabase.com",
     "dialect": "mysql"
   }
 }
