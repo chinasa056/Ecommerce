@@ -1,5 +1,5 @@
-const products = require("../models/products")
-const stores = require("../models/stores")
+const {products} = require("../models")
+const stores = require("../models")
 
 const {v4:uuidv4} = require("uuid")
 exports.createProduct = async (req,res) =>{

@@ -1,5 +1,5 @@
 // const { json } = require("sequelize");
-const stores = require("../models/stores")
+const {stores} = require("../models")
 
 const { v4: uuidv4 } = require("uuid");
 exports.createStore = async (req, res) => {
